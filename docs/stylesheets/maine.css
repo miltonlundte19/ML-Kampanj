@@ -6,8 +6,16 @@ html{
     color: #169ef3;
 }
 nav{
+    width: 90%;
+    margin: 0 auto;
     display: flex;
+    flex-direction: column;
 }
-
+/*.flex-dire-col{
+    flex-direction: column;
+}
+.flex-dire-row{
+    flex-direction: row;
+}*/
 /*  #64BFF7 #169EF3 #096FAE #010C13  */
 
