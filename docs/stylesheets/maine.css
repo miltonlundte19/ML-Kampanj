@@ -1,7 +1,13 @@
 html{
+    background-color: #ebebeb;
     color: #252525;
 }
-
+.blue{
+    color: #169ef3;
+}
+nav{
+    display: flex;
+}
 
 /*  #64BFF7 #169EF3 #096FAE #010C13  */
 
