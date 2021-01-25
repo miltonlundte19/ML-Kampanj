@@ -10,7 +10,7 @@ html{
     color: #169ef3;
 }
 nav{
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
     background-color: lightblue;
 }
@@ -28,9 +28,9 @@ main{
 .flex-row{
     flex-direction: row;
 }
-/* .flex-dire-col{
-    flex-direction: column;
+.marg-0{
+    margin: 0;
 }
-*/
+
 /*  #64BFF7 #169EF3 #096FAE #010C13  */
 
