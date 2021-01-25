@@ -10,12 +10,18 @@ nav{
     margin: 0 auto;
     display: flex;
     flex-direction: column;
+    background-color: lightblue;
 }
-/*.flex-dire-col{
+main{
+    width: 75%;
+    margin: 0 auto;
+    background-color: lightcyan;
+}
+.flex-dire-col{
     flex-direction: column;
 }
 .flex-dire-row{
     flex-direction: row;
-}*/
+}
 /*  #64BFF7 #169EF3 #096FAE #010C13  */
 
