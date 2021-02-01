@@ -38,11 +38,17 @@ main{
     overflow: hidden;
 }
 .listli{
-    float: left;
+    float: right;
+    margin: 7%;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 .listali{
     display: block;
     padding: 8px;
+}
+.w-100{
+    width: 100%;
 }
 
 /*  #64BFF7 #169EF3 #096FAE #010C13  */
