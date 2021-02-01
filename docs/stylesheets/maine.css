@@ -15,7 +15,7 @@ nav{
     background-color: lightblue;
 }
 main{
-    width: 75%;
+    width: 90%;
     margin: 0 auto;
     background-color: lightcyan;
 }
@@ -63,9 +63,10 @@ h1{
 h4 {
     text-align: center;
 }
-p{
-    
+h2{
+    font-size: 3rem;
 }
+
 
 /*  #64BFF7 #169EF3 #096FAE #010C13  */
 
