@@ -31,6 +31,12 @@ main{
 .marg-0{
     margin: 0;
 }
+.taitel{
+    margin-left: 10%;
+    margin-top: 1rem;
+    width: 30%;
+    margin-bottom: 1rem;
+}
 .listul{
     list-style-type: none;
     margin: 0;
@@ -49,6 +55,12 @@ main{
 }
 .w-100{
     width: 100%;
+}
+h1{
+    text-align: center;
+}
+h4 {
+    text-align: center;
 }
 
 /*  #64BFF7 #169EF3 #096FAE #010C13  */
