@@ -31,6 +31,19 @@ main{
 .marg-0{
     margin: 0;
 }
+.listul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.listli{
+    float: left;
+}
+.listali{
+    display: block;
+    padding: 8px;
+}
 
 /*  #64BFF7 #169EF3 #096FAE #010C13  */
 
