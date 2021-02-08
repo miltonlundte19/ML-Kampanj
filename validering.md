@@ -12,3 +12,4 @@ jag har för det mesta fokiserat på att få till navbaren genom att få till re
 
 - 2021-02-08:
 
+jag har spenderat nestan all min tid på att söka upp hur man gjör en ut spaisad nav menu och den tid som jag hade kvar spenderade jag på att förstå och få till min navbar.
